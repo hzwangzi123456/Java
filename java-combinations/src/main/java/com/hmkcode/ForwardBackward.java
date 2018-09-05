@@ -9,6 +9,7 @@ public class ForwardBackward {
 		Object[] e = new Object[] {'A','B','C','D','E'};
 		int k = 3;
 		combination(e,k);
+		log.info("");
 	}
 	
 	
